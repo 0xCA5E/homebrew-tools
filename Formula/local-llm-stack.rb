@@ -2,8 +2,8 @@ class LocalLlmStack < Formula
   desc "Run a local LLM stack with one command"
   homepage "https://github.com/0xCA5E/local-llm-stack"
   head "https://github.com/0xCA5E/local-llm-stack.git", branch: "main"
-  url "https://github.com/0xCA5E/local-llm-stack/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  url "https://github.com/0xCA5E/local-llm-stack/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "4053a7982c8d6c8e2169e5c439594ace40fdd0632d28d762b3e9a32b0be2a54e"
   license "MIT"
 
   depends_on :macos
